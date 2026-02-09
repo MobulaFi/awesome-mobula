@@ -32,7 +32,7 @@
 ## SDKs & Libraries
 
 ### JavaScript/TypeScript
-- [mobula-sdk](https://www.npmjs.com/package/mobula-sdk) - Official JavaScript/TypeScript SDK
+- [mobula-sdk](https://github.com/MobulaFi/mobula-sdk) - Official JavaScript/TypeScript SDK ([npm](https://www.npmjs.com/package/mobula-sdk))
 - [@mobula/types](https://www.npmjs.com/package/@mobula/types) - TypeScript type definitions
 - [lighter-ts-sdk](https://github.com/MobulaFi/lighter-ts-sdk) - Lightweight TypeScript SDK for Mobula API
 
