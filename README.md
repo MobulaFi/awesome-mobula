@@ -23,10 +23,12 @@
 
 ## Official Resources
 
+- [Documentation](https://docs.mobula.io/introduction) - Getting started guide
 - [Mobula API](https://developer.mobula.io) - Official API documentation
 - [Dashboard](https://admin.mobula.io) - Developer dashboard
 - [Website](https://mobula.io) - Official website
 - [GitHub](https://github.com/MobulaFi) - Official GitHub organization
+- [YouTube](https://www.youtube.com/@MobulaBuilders) - Video tutorials
 
 ## SDKs & Libraries
 
