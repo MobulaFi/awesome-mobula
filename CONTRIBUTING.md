@@ -36,6 +36,6 @@ Thank you for considering contributing to Awesome Mobula!
 
 ## Questions?
 
-If you have questions, open an issue or reach out on [Discord](https://discord.gg/mobula).
+If you have questions, open an issue or reach out on [Discord](https://discord.com/invite/mobula-936365017526308925).
 
 Thank you for helping make this list awesome!
