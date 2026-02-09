@@ -18,7 +18,6 @@
 - [SDKs & Libraries](#sdks--libraries)
 - [Built with Mobula](#built-with-mobula)
 - [Tools & Integrations](#tools--integrations)
-- [Tutorials & Examples](#tutorials--examples)
 - [Community](#community)
 - [Contributing](#contributing)
 
@@ -31,54 +30,25 @@
 
 ## SDKs & Libraries
 
-### JavaScript/TypeScript
 - [mobula-sdk](https://github.com/MobulaFi/mobula-sdk) - Official JavaScript/TypeScript SDK ([npm](https://www.npmjs.com/package/mobula-sdk))
 - [@mobula/types](https://www.npmjs.com/package/@mobula/types) - TypeScript type definitions
 - [lighter-ts-sdk](https://github.com/MobulaFi/lighter-ts-sdk) - Lightweight TypeScript SDK for Mobula API
 
-### Python
-- Coming soon
-
-### Go
-- Coming soon
-
 ## Built with Mobula
 
-### Wallets
 - [Mooner Wallet](https://github.com/moonerfun/mooner-wallet) - Crypto wallet with Mobula integration
-
-### Trading & Analytics
 - [MTT](https://github.com/MobulaFi/MTT) - Multi-token trading platform
-
-### DeFi Applications
-- Coming soon
-
-### Portfolio Trackers
-- Coming soon
-
-### Market Data Apps
-- Coming soon
 
 ## Tools & Integrations
 
 - [Aggregator Latency Benchmark](https://github.com/MobulaFi/aggregator-latency-benchmark) - Benchmark tool for comparing latency across different data aggregators
 
-## Tutorials & Examples
-
-### Getting Started
-- [Official Quickstart Guide](https://developer.mobula.io/docs/quickstart) - Get started with Mobula API
-
-### Code Examples
-- Coming soon
-
-### Video Tutorials
-- Coming soon
-
 ## Community
 
-- [Discord](https://discord.gg/mobula) - Join the community
-- [Twitter](https://twitter.com/MobulaIO) - Follow for updates
-- [Telegram](https://t.me/MobulaAPI) - Developer chat
+- [Website](https://mobula.io/) - Official website
+- [Telegram](https://t.me/mobuladevelopers) - Developer community
+- [Discord](https://discord.com/invite/mobula-936365017526308925) - Join the community
+- [Slack](https://mobulaapi.slack.com/) - Developer workspace
 
 ## Contributing
 
