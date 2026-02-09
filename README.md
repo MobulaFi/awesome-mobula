@@ -44,6 +44,7 @@
 ## Tools & Integrations
 
 - [Aggregator Latency Benchmark](https://github.com/MobulaFi/aggregator-latency-benchmark) - Benchmark tool for comparing latency across different data aggregators
+- [Linear Telegram Agent](https://github.com/MobulaFi/Linear-Telegram-Agent) - AI-powered Telegram bot for Linear ticket management with natural language commands
 
 ## Community
 
