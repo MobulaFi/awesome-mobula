@@ -1,8 +1,16 @@
-# Awesome Mobula [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-> A curated list of awesome projects, tools, and resources built with Mobula API
-
-[Mobula](https://mobula.io) provides comprehensive blockchain data APIs for developers building crypto applications.
+<div align="center">
+  <img src="assets/logo.svg" width="200" alt="Mobula Logo">
+  <br>
+  <img src="assets/mobula_text.png" width="300" alt="Mobula">
+  <br><br>
+  <h1>Awesome Mobula</h1>
+  <a href="https://awesome.re">
+    <img src="https://awesome.re/badge.svg" alt="Awesome">
+  </a>
+  <br><br>
+  <p><em>A curated list of awesome projects, tools, and resources built with Mobula API</em></p>
+  <p><a href="https://mobula.io">Mobula</a> provides comprehensive blockchain data APIs for developers building crypto applications.</p>
+</div>
 
 ## Contents
 
