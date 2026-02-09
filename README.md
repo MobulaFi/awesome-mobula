@@ -47,7 +47,7 @@
 - [Mooner Wallet](https://github.com/moonerfun/mooner-wallet) - Crypto wallet with Mobula integration
 
 ### Trading & Analytics
-- [MTT](https://mtt.mooner.fun) - Multi-token trading platform
+- [MTT](https://github.com/MobulaFi/MTT) - Multi-token trading platform
 
 ### DeFi Applications
 - Coming soon
