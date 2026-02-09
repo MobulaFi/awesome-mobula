@@ -61,7 +61,7 @@
 
 ## Tools & Integrations
 
-- Coming soon
+- [Aggregator Latency Benchmark](https://github.com/MobulaFi/aggregator-latency-benchmark) - Benchmark tool for comparing latency across different data aggregators
 
 ## Tutorials & Examples
 
