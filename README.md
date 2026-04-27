@@ -18,6 +18,7 @@
 - [Built with Mobula](#built-with-mobula)
 - [Tools & Integrations](#tools--integrations)
 - [Community](#community)
+- [Generate Your Project README](#generate-your-project-readme)
 - [Contributing](#contributing)
 
 ## Official Resources
@@ -48,6 +49,10 @@
 - [Telegram](https://t.me/mobuladevelopers) - Developer community
 - [Discord](https://discord.com/invite/mobula-936365017526308925) - Join the community
 - [Slack](https://mobulaapi.slack.com/) - Developer workspace
+
+## Generate Your Project README
+
+Need a README for your Mobula-powered project? Use our [README Generator Template](README_TEMPLATE.md) — one-click copy the prompt into any LLM (ChatGPT, Claude, Gemini, etc.), fill in your project details, and get a publish-ready README instantly.
 
 ## Contributing
 
