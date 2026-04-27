@@ -20,6 +20,10 @@ Thank you for considering contributing to Awesome Mobula!
 6. Push to the branch (`git push origin add-project-name`)
 7. Open a Pull Request
 
+## Generate Your README
+
+Use our [README Generator Template](README_TEMPLATE.md) to create an optimized README for your project. Copy the prompt into any LLM, fill in your details, and get a ready-to-use README.
+
 ## What to Include
 
 - **Project name**: Clear and concise
