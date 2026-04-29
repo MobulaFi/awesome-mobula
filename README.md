@@ -34,6 +34,7 @@
 
 - [DefiDuel API](https://github.com/Wakushi/defi-api) - Backend for DefiDuel, a competitive perp trading duel platform powered by Mobula market data
 - [DefiDuel Client](https://github.com/Wakushi/defi-client) - Frontend for DefiDuel, a gamified arena where traders compete head-to-head on leveraged positions
+- [InsiderWallet](https://github.com/aria21x/InsiderWallet) - Solana on-chain intelligence that detects validated buy activity, clusters related wallets, verifies token price movement, and sends deduplicated Discord alerts
 - [Mooner Wallet](https://github.com/moonerfun/mooner-wallet) - Crypto wallet with Mobula integration
 - [MTT](https://github.com/MobulaFi/MTT) - Multi-token trading platform
 - [Solana Memecoin Token Screener](https://github.com/MarioR7/fuzzy-potato) - Solana memecoin token screener built with Mobula API
