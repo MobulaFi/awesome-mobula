@@ -38,6 +38,7 @@
 - [Mooner Wallet](https://github.com/moonerfun/mooner-wallet) - Crypto wallet with Mobula integration
 - [MTT](https://github.com/MobulaFi/MTT) - Multi-token trading platform
 - [Solana Memecoin Token Screener](https://github.com/MarioR7/fuzzy-potato) - Solana memecoin token screener built with Mobula API
+- [Nexus](https://github.com/KarimTG00/nexus) - Nexus — Multi-Chain Memecoin Screener with Self-Calibrating Filters | Built with Mobula API
 
 ## Tools & Integrations
 
